@@ -2,7 +2,7 @@
 
 ##run_analysis.R 
 ###Working
-The file run_analysis.R is developed to perform the following tasks:
+The Rscript run_analysis.R is developed to perform the following tasks:
   1. Checks if the file exists in the working directory and downloads and unzips if it doesn't exist.
   2. The raw data is read.
   3. y variables are transformed to include activity labels along with the activity IDs.
